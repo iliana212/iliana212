@@ -5,47 +5,66 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=415&height=44&lines=.NET%20Developer;Eat.%20Sleep.%20Code.%20Repeat." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=415&height=44&lines=FullStack%20.NET%20Developer;Eat.%20Sleep.%20Code.%20Repeat." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
 
 I am a .NET Developer with over 8 years of experience building web applications and enterprise systems for the financial and healthcare sectors. I specialize in C#, ASP.NET Core, SQL Server, and ETL processes, with a proven track record in regulated environments where quality and operational continuity are critical. I have experience collaborating within agile teams using Scrum, Azure DevOps and CI/CD practices.
 
-🔭 &nbsp;I'm currently working on **Improving my skills**  
-🌱 &nbsp;I'm currently learning **Microservices .NET and Angular Apps**  
-⚡ &nbsp;Fun fact: **!false (It's funny 'cause it's true)**
+
+### 📌 Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**AppuntaMed**](https://github.com/iliana212/AppuntaMed) | Medical appointments API with Clean Architecture: Keycloak authentication with permission and ownership rules, Docker Compose, integration tests against a real SQL Server and CI | .NET 10 · EF Core · SQL Server · Keycloak · Docker · Testcontainers |
+| [**TechMarket**](https://github.com/iliana212/TechMarket) | Microservices with an API Gateway, asynchronous messaging, resilience and distributed tracing | YARP · RabbitMQ · Wolverine · Polly · OpenTelemetry |
+| [**Movies**](https://github.com/iliana212/API_Movies) | Full-stack app: a .NET 10 API with [React](https://github.com/iliana212/React_Movies) and [Angular](https://github.com/iliana212/Angular_Movies) clients | ASP.NET Core · JWT · React 19 · Angular 21 |
+
 
 ### 🛠️ Tech Stack
 
 <p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> 
+  <img src="https://img.shields.io/badge/SQL%20Server-777BB4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> 
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak" />
+  <img src="https://img.shields.io/badge/Auth JWT-601D49?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/RabbitMQ-F24E1E?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/YARP%20Gateway-760031?style=for-the-badge&logo=gateway&logoColor=white" alt="YARP" />
+  <img src="https://img.shields.io/badge/Wolverine-FFFC8C?style=for-the-badge&logo=wolverine&logoColor=black" alt="Wolverine" />
+  <img src="https://img.shields.io/badge/Polly-946D6D?style=for-the-badge&logo=polly&logoColor=white" alt="Polly" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Serilog-A290B7?style=for-the-badge&logo=serilog&logoColor=white" alt="Serilog" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Swagger-76C457?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Scalar-091540?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="Scalar" />
+  <img src="https://img.shields.io/badge/xUnit-8E1EA2?style=for-the-badge&logo=xunit&logoColor=white" alt="xUnit" />
+  <img src="https://img.shields.io/badge/Testcontainers-287A74?style=for-the-badge&logo=testcontainers&logoColor=white" alt="Testcontainers" />
+  <img src="https://img.shields.io/badge/Jasmine-FFDADA?style=for-the-badge&logo=jasmine&logoColor=white" alt="Jasmine" />
+  <img src="https://img.shields.io/badge/Vitest-76C457?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/OWASP-1F150C?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/Jaeger-BD5579?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-333D6D?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
 ### 🔗 Connect With Me

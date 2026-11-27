@@ -8,21 +8,71 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=415&height=44&lines=FullStack%20.NET%20Developer;Eat.%20Sleep.%20Code.%20Repeat." alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+## 🚀 About Me
 
 I am a .NET Developer with over 8 years of experience building web applications and enterprise systems for the financial and healthcare sectors. I specialize in C#, ASP.NET Core, SQL Server, and ETL processes, with a proven track record in regulated environments where quality and operational continuity are critical. I have experience collaborating within agile teams using Scrum, Azure DevOps and CI/CD practices.
 
 
-### 📌 Featured Projects
+## 🚀 Featured Projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**AppuntaMed**](https://github.com/iliana212/AppuntaMed) | Medical appointments API with Clean Architecture: Keycloak authentication with permission and ownership rules, Docker Compose, integration tests against a real SQL Server and CI | .NET 10 · EF Core · SQL Server · Keycloak · Docker · Testcontainers |
-| [**TechMarket**](https://github.com/iliana212/TechMarket) | Microservices with an API Gateway, asynchronous messaging, resilience and distributed tracing | YARP · RabbitMQ · Wolverine · Polly · OpenTelemetry |
-| [**Movies**](https://github.com/iliana212/API_Movies) | Full-stack app: a .NET 10 API with [React](https://github.com/iliana212/React_Movies) and [Angular](https://github.com/iliana212/Angular_Movies) clients | ASP.NET Core · JWT · React 19 · Angular 21 |
+### 🩺 AppuntaMed
+<p align="center">
+  <a href="https://github.com/iliana212/AppuntaMed">
+     <img src="assets/projects/appuntamed-banner.png" alt="AppuntaMed - Medical Appointments API" width="50%" />
+  </a>
+</p>
+
+**A medical appointment management API built with Clean Architecture and .NET 10.**
+
+- Authentication and authorization with Keycloak, including permission and resource ownership rules.
+- Docker Compose for infrastructure orchestration.
+- Integration tests against a real SQL Server instance using Testcontainers.
+- Automated CI pipeline with GitHub Actions.
+
+---
+
+### 🛒 TechMarket
+<p align="center">
+  <a href="https://github.com/iliana212/TechMarket">
+     <img src="assets/projects/techmarket-banner.png" alt="TechMarket - Microservices Architecture" width="50%" />
+  </a>
+</p>
+
+**A microservices-based e-commerce platform focused on distributed communication, resilience and observability.**
+
+- API Gateway using YARP.
+- Asynchronous messaging with RabbitMQ and Wolverine.
+- Resilience strategies with Polly.
+- Distributed tracing and observability with OpenTelemetry.
+
+---
+
+### 🎬 Movies Ecosystem
+<p align="center">
+  <a href="https://github.com/iliana212/API_Movies">
+    <img src="assets/projects/api-movies-banner.png" alt="API Movies - Movie Management API" width="50%" />
+  </a>
+</p>
+
+**A movie management ecosystem consisting of a REST API and two frontend clients.**
+
+#### Backend
+- REST API built with ASP.NET Core and .NET 10.
+- JWT authentication and authorization.
+- Movie catalog management, spatial features and cloud image storage.
+
+#### Frontend Clients
+
+| React Movies | Angular Movies |
+|---|---|
+| React-based frontend client consuming the Movies API. | Angular-based frontend client consuming the Movies API. |
+| <img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /> | <img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /> |
+| 🔗 [View Repository](https://github.com/iliana212/React_Movies) | 🔗 [View Repository](https://github.com/iliana212/Angular_Movies) |
+
+---
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -33,6 +83,7 @@ I am a .NET Developer with over 8 years of experience building web applications 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" /> 
   <img src="https://img.shields.io/badge/SQL%20Server-777BB4?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-BC52EE?style=for-the-badge&logo=entityframework&logoColor=white" alt="EF" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> 
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
@@ -67,27 +118,27 @@ I am a .NET Developer with over 8 years of experience building web applications 
   <img src="https://img.shields.io/badge/OpenTelemetry-333D6D?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
-### 🔗 Connect With Me
+## 🔗 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/iliana-barron-aa380815b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:iliana.8093@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=iliana212&show_icons=true&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=iliana212&layout=compact&theme=tokyonight&title_color=2f81f7&icon_color=2f81f7&hide_border=true&bg_color=00000000&langs_count=7" alt="toplangs" />
 </p>
 
-### 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img height="210" width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=iliana212&bg_color=00000000&color=2f81f7&line=2f81f7&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+## 💭 Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />

@@ -66,7 +66,7 @@ I am a .NET Developer with over 8 years of experience building web applications 
 | React Movies | Angular Movies |
 |---|---|
 | React-based frontend client consuming the Movies API. | Angular-based frontend client consuming the Movies API. |
-| <img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /> | <img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /> |
+| <img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /> | <img src="assets/projects/angular-movies-banner.jpg" alt="React Movies" /> |
 | 🔗 [View Repository](https://github.com/iliana212/React_Movies) | 🔗 [View Repository](https://github.com/iliana212/Angular_Movies) |
 
 ---

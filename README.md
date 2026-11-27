@@ -13,7 +13,7 @@
 I am a .NET Developer with over 8 years of experience building web applications and enterprise systems for the financial and healthcare sectors. I specialize in C#, ASP.NET Core, SQL Server, and ETL processes, with a proven track record in regulated environments where quality and operational continuity are critical. I have experience collaborating within agile teams using Scrum, Azure DevOps and CI/CD practices.
 
 
-## 🚀 Featured Projects
+## ![code](https://www.readmecodegen.com/api/social-icon?name=code&size=30&color=%2310b981) Featured Projects
 
 ### 🩺 AppuntaMed
 <p align="center">
@@ -63,11 +63,9 @@ I am a .NET Developer with over 8 years of experience building web applications 
 
 #### Frontend Clients
 
-| React Movies | Angular Movies |
-|---|---|
 | React-based frontend client consuming the Movies API. | Angular-based frontend client consuming the Movies API. |
-| <img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /> | <img src="assets/projects/angular-movies-banner.jpg" alt="React Movies" /> |
-| 🔗 [View Repository](https://github.com/iliana212/React_Movies) | 🔗 [View Repository](https://github.com/iliana212/Angular_Movies) |
+|---|---|
+| <a href="https://github.com/iliana212/React_Movies"><img src="assets/projects/react-movies-banner.jpg" alt="React Movies" /></a> | <a href="https://github.com/iliana212/Angular_Movies"><img src="assets/projects/angular-movies-banner.jpg" alt="Angular Movies" /> |
 
 ---
 

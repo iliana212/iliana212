@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/iliana212">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=54&height=90&width=858&text=Hello!%20I'm%20Iliana%20Barron" alt="Hello! I&#39;m Iliana Barron" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2f81f7&fontSize=40&height=80&width=858&text=Hello!%20I'm%20Iliana%20Barron" alt="Hello! I&#39;m Iliana Barron" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=415&height=44&lines=FullStack%20.NET%20Developer;Eat.%20Sleep.%20Code.%20Repeat." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=30&pause=1000&color=2f81f7&center=true&vCenter=true&width=415&height=44&lines=FullStack%20.NET%20Developer;Eat.%20Sleep.%20Code.%20Repeat." alt="Typing headlines" />
 </p>
 
 ## 🚀 About Me
@@ -119,8 +119,9 @@ I am a .NET Developer with over 8 years of experience building web applications 
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/iliana-barron-aa380815b/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:iliana.8093@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/iliana-barron/" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=linkedin&size=48&animation=tada&animationDuration=3&textAlignment=horizontal&showText=true&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Filiana-barron%2F" alt="linkedin" /></a>
+  <a href="mailto:iliana.8093@gmail.com" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=gmail&size=48&animation=tada&animationDuration=3&textAlignment=horizontal&showText=true&link=mailto%3Ailiana.8093%40gmail.com" alt="gmail" /></a>   
+  <a href="mailto:iliana_12151@hotmail.com" target="_blank"><img src="https://www.readmecodegen.com/api/social-icon?name=microsoft&size=48&animation=tada&animationDuration=3&textAlignment=horizontal&color=%23123f87&showText=true&text=Outlook&link=mailto%3Ailiana_12151%40hotmail.com" alt="microsoft" /></a>
 </p>
 
 ## 📊 GitHub Stats
